@@ -131,9 +131,9 @@ print(cv_scores.mean())
 
 ## Output:
 
-<img width="688" height="305" alt="Screenshot 2026-08-22 105707" src="https://github.com/user-attachments/assets/6ac2baaf-c415-4bd7-a39a-b4ac8c36cfd1" />
 <img width="851" height="512" alt="Screenshot 2026-08-22 105653" src="https://github.com/user-attachments/assets/edf6f7ee-2bdd-454f-93e7-489045ce4eb3" />
 
-
+<img width="688" height="305" alt="Screenshot 2026-08-22 105707" src="https://github.com/user-attachments/assets/6ac2baaf-c415-4bd7-a39a-b4ac8c36cfd1" />
 
 ## Result:
+Thus, the Random Forest Regression algorithm was successfully implemented to predict temperature, PM2.5 pollution level, and energy from weather station sensor data, and the model performance was evaluated using R² Score, MAE, RMSE, and 5-fold cross-validation.
